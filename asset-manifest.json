@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ashirsc.github.io/csb-gvx48v/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ashirsc.github.io/csb-gvx48v/static/js/main.0ad0f637.chunk.js",
+    "main.js.map": "https://ashirsc.github.io/csb-gvx48v/static/js/main.0ad0f637.chunk.js.map",
+    "runtime-main.js": "https://ashirsc.github.io/csb-gvx48v/static/js/runtime-main.602fc03f.js",
+    "runtime-main.js.map": "https://ashirsc.github.io/csb-gvx48v/static/js/runtime-main.602fc03f.js.map",
+    "static/js/2.00c2e826.chunk.js": "https://ashirsc.github.io/csb-gvx48v/static/js/2.00c2e826.chunk.js",
+    "static/js/2.00c2e826.chunk.js.map": "https://ashirsc.github.io/csb-gvx48v/static/js/2.00c2e826.chunk.js.map",
+    "index.html": "https://ashirsc.github.io/csb-gvx48v/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ashirsc.github.io/csb-gvx48v/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.00c2e826.chunk.js.LICENSE.txt": "https://ashirsc.github.io/csb-gvx48v/static/js/2.00c2e826.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.602fc03f.js",
+    "static/js/2.00c2e826.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0ad0f637.chunk.js"
+  ]
+}
